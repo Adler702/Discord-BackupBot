@@ -1,0 +1,1336 @@
+{
+  "guild.name": "Lying´s Community Discord",
+  "guild.icon": "https://cdn.discordapp.com/icons/593464238404665356/641fdedf148941d9e62fb8c94fefec18.png",
+  "guild.region": "eu-central",
+  "guild.publicrole": "593464238404665356",
+  "roles": [
+    {
+      "593467265945436162.name": "MEE6",
+      "593467265945436162.color": 536870911,
+      "593467265945436162.position": 36,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Administrator",
+        "Manage Channels",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Webhooks",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "593467484116615189.name": "Auttaja",
+      "593467484116615189.color": 536870911,
+      "593467484116615189.position": 35,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Manage Channels",
+        "Manage Server",
+        "Add Reactions",
+        "View Audit Logs",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Change Nickname",
+        "Manage Nicknames",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "596361032172175361.name": "YAGPDB.xyz",
+      "596361032172175361.color": 536870911,
+      "596361032172175361.position": 34,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Administrator",
+        "Manage Channels",
+        "Manage Server",
+        "Add Reactions",
+        "View Audit Logs",
+        "Priority Speaker",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Use External Emojis",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Use Voice Activity",
+        "Change Nickname",
+        "Manage Nicknames",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Webhooks",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "765618918458654742.name": "Nosine",
+      "765618918458654742.color": 536870911,
+      "765618918458654742.position": 33,
+      "perms": [
+        "Administrator"
+      ]
+    },
+    {
+      "593464655758753792.name": "👑 | Lying",
+      "593464655758753792.color": 7074815,
+      "593464655758753792.position": 32,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Administrator",
+        "Manage Channels",
+        "Manage Server",
+        "Add Reactions",
+        "View Audit Logs",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Change Nickname",
+        "Manage Nicknames",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Webhooks",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "604955864922849280.name": "🏆 | Sr.Admin",
+      "604955864922849280.color": 16064544,
+      "604955864922849280.position": 31,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Administrator",
+        "Manage Channels",
+        "Manage Server",
+        "Add Reactions",
+        "View Audit Logs",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Change Nickname",
+        "Manage Nicknames",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Webhooks",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "593464656002154507.name": "🏆 | Admin",
+      "593464656002154507.color": 16207413,
+      "593464656002154507.position": 30,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Administrator",
+        "Manage Channels",
+        "Manage Server",
+        "Add Reactions",
+        "View Audit Logs",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Change Nickname",
+        "Manage Nicknames",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Webhooks",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "593464657537400842.name": "🚨 | Moderator",
+      "593464657537400842.color": 15007488,
+      "593464657537400842.position": 29,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Move Members",
+        "Change Nickname"
+      ]
+    },
+    {
+      "756918470112837732.name": "✨ | Stream Mod",
+      "756918470112837732.color": 4951277,
+      "756918470112837732.position": 28,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Move Members",
+        "Use Voice Activity"
+      ]
+    },
+    {
+      "593464659797999622.name": "⚡ | Bot-Dev",
+      "593464659797999622.color": 65519,
+      "593464659797999622.position": 27,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Move Members",
+        "Change Nickname"
+      ]
+    },
+    {
+      "598951478006382604.name": "🚓 | Sr.Sup",
+      "598951478006382604.color": 59730,
+      "598951478006382604.position": 26,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Change Nickname",
+        "Manage Nicknames"
+      ]
+    },
+    {
+      "593464658086854668.name": "🚓 | Supporter",
+      "593464658086854668.color": 5659644,
+      "593464658086854668.position": 25,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Move Members",
+        "Change Nickname"
+      ]
+    },
+    {
+      "593466143977504790.name": "🌀 | Test-Supporter",
+      "593466143977504790.color": 5892044,
+      "593466143977504790.position": 24,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Move Members",
+        "Change Nickname"
+      ]
+    },
+    {
+      "670958544001957889.name": "🐻 | EmGaTV",
+      "670958544001957889.color": 1486014,
+      "670958544001957889.position": 23,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity"
+      ]
+    },
+    {
+      "761299209948364863.name": "📀 | Vanessa",
+      "761299209948364863.color": 2555580,
+      "761299209948364863.position": 22,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity"
+      ]
+    },
+    {
+      "593464660901232651.name": "🎨 | Designer⠀",
+      "593464660901232651.color": 16721340,
+      "593464660901232651.position": 21,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Change Nickname"
+      ]
+    },
+    {
+      "593464661534441480.name": "😻 |  Buddy",
+      "593464661534441480.color": 65305,
+      "593464661534441480.position": 20,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak"
+      ]
+    },
+    {
+      "593465644872237056.name": "🎥 | Influencer",
+      "593465644872237056.color": 16711935,
+      "593465644872237056.position": 19,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak"
+      ]
+    },
+    {
+      "606062234816479252.name": "💸 | Spender",
+      "606062234816479252.color": 16711878,
+      "606062234816479252.position": 18,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity"
+      ]
+    },
+    {
+      "593836323731800085.name": "📀 | VIP",
+      "593836323731800085.color": 15844367,
+      "593836323731800085.position": 17,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak"
+      ]
+    },
+    {
+      "596034057859629058.name": "Mitglied",
+      "596034057859629058.color": 1752220,
+      "596034057859629058.position": 16,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak"
+      ]
+    },
+    {
+      "593465795183640577.name": "Bots",
+      "593465795183640577.color": 6323595,
+      "593465795183640577.position": 15,
+      "perms": [
+        "Create Instant Invite",
+        "Kick Members",
+        "Ban Members",
+        "Administrator",
+        "Manage Channels",
+        "Manage Server",
+        "Add Reactions",
+        "View Audit Logs",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Manage Messages",
+        "Embed Links",
+        "Attach Files",
+        "Read History",
+        "Mention Everyone",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Mute Members",
+        "Deafen Members",
+        "Move Members",
+        "Use Voice Activity",
+        "Change Nickname",
+        "Manage Nicknames",
+        "Manage Roles",
+        "Manage Permissions",
+        "Manage Webhooks",
+        "Manage Emojis"
+      ]
+    },
+    {
+      "593466754878144559.name": "Join+",
+      "593466754878144559.color": 536870911,
+      "593466754878144559.position": 14,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596991849135210496.name": "Move+",
+      "596991849135210496.color": 536870911,
+      "596991849135210496.position": 13,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Move Members",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596364002121220106.name": "⠀\u003d\u003d\u003d\u003d⠀⚫️ Herkunft ⚫️ ⠀\u003d\u003d\u003d\u003d⠀",
+      "596364002121220106.color": 3092790,
+      "596364002121220106.position": 12,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363157367423020.name": "Deutschland",
+      "596363157367423020.color": 536870911,
+      "596363157367423020.position": 11,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363158407479316.name": "Österreich",
+      "596363158407479316.color": 536870911,
+      "596363158407479316.position": 10,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363159242276874.name": "Italien",
+      "596363159242276874.color": 536870911,
+      "596363159242276874.position": 9,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363160290590738.name": "Russland",
+      "596363160290590738.color": 536870911,
+      "596363160290590738.position": 8,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363161330909195.name": "Türkei",
+      "596363161330909195.color": 536870911,
+      "596363161330909195.position": 7,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363161834356737.name": "Frankreich",
+      "596363161834356737.color": 536870911,
+      "596363161834356737.position": 6,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363162559971328.name": "Polen",
+      "596363162559971328.color": 536870911,
+      "596363162559971328.position": 5,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596363163323334666.name": "Schweiz",
+      "596363163323334666.color": 536870911,
+      "596363163323334666.position": 4,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596364088771215402.name": "⠀\u003d\u003d\u003d\u003d⠀⚫️ Geschlecht ⚫️ ⠀\u003d\u003d\u003d\u003d⠀",
+      "596364088771215402.color": 3092790,
+      "596364088771215402.position": 3,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596364093716168714.name": "Junge",
+      "596364093716168714.color": 536870911,
+      "596364093716168714.position": 2,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596364094349639692.name": "Mädchen",
+      "596364094349639692.color": 536870911,
+      "596364094349639692.position": 1,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "596364119037181963.name": "Divers",
+      "596364119037181963.color": 536870911,
+      "596364119037181963.position": 0,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity",
+        "Change Nickname"
+      ]
+    },
+    {
+      "593464238404665356.name": "@everyone",
+      "593464238404665356.color": 536870911,
+      "593464238404665356.position": -1,
+      "perms": [
+        "Create Instant Invite",
+        "Add Reactions",
+        "Read Text Channels \u0026 See Voice Channels",
+        "Read Messages",
+        "Send Messages",
+        "Send TTS Messages",
+        "Read History",
+        "Use External Emojis",
+        "Stream",
+        "Connect",
+        "Speak",
+        "Use Voice Activity"
+      ]
+    }
+  ],
+  "categorys": [
+    {
+      "Lying ● Willkommen.name": "Lying ● Willkommen",
+      "Lying ● Willkommen.id": "596350133789261855",
+      "Lying ● Willkommen.position": 0,
+      "Lying ● Willkommen.type": 4,
+      "channels": [
+        {
+          "║💓║willkommen.name": "║💓║willkommen",
+          "║💓║willkommen.position": 0,
+          "║💓║willkommen.type": 0,
+          "║💓║willkommen.type.bucket": 0
+        },
+        {
+          "║🎊║rollenvergabe.name": "║🎊║rollenvergabe",
+          "║🎊║rollenvergabe.position": 1,
+          "║🎊║rollenvergabe.type": 0,
+          "║🎊║rollenvergabe.type.bucket": 0
+        }
+      ]
+    },
+    {
+      "Lying ● Informationen.name": "Lying ● Informationen",
+      "Lying ● Informationen.id": "596033618447695893",
+      "Lying ● Informationen.position": 1,
+      "Lying ● Informationen.type": 4,
+      "channels": [
+        {
+          "║💓║luca-yt.name": "║💓║luca-yt",
+          "║💓║luca-yt.position": 2,
+          "║💓║luca-yt.type": 0,
+          "║💓║luca-yt.type.bucket": 0
+        },
+        {
+          "║📌║regeln.name": "║📌║regeln",
+          "║📌║regeln.position": 3,
+          "║📌║regeln.type": 0,
+          "║📌║regeln.type.bucket": 0
+        },
+        {
+          "║🚨║news.name": "║🚨║news",
+          "║🚨║news.position": 4,
+          "║🚨║news.type": 0,
+          "║🚨║news.type.bucket": 0
+        },
+        {
+          "║📃║about-lying.name": "║📃║about-lying",
+          "║📃║about-lying.position": 5,
+          "║📃║about-lying.type": 0,
+          "║📃║about-lying.type.bucket": 0
+        }
+      ]
+    },
+    {
+      "Lying ● Community.name": "Lying ● Community",
+      "Lying ● Community.id": "593464238404665359",
+      "Lying ● Community.position": 2,
+      "Lying ● Community.type": 4,
+      "channels": [
+        {
+          "║💬║userchat.name": "║💬║userchat",
+          "║💬║userchat.position": 6,
+          "║💬║userchat.type": 0,
+          "║💬║userchat.type.bucket": 0
+        },
+        {
+          "║📧║support.name": "║📧║support",
+          "║📧║support.position": 7,
+          "║📧║support.type": 0,
+          "║📧║support.type.bucket": 0
+        },
+        {
+          "║📋║vorschläge.name": "║📋║vorschläge",
+          "║📋║vorschläge.position": 8,
+          "║📋║vorschläge.type": 0,
+          "║📋║vorschläge.type.bucket": 0
+        },
+        {
+          "║🎥║deine-videos.name": "║🎥║deine-videos",
+          "║🎥║deine-videos.position": 9,
+          "║🎥║deine-videos.type": 0,
+          "║🎥║deine-videos.type.bucket": 0
+        },
+        {
+          "║🎨║deine-designs.name": "║🎨║deine-designs",
+          "║🎨║deine-designs.position": 10,
+          "║🎨║deine-designs.type": 0,
+          "║🎨║deine-designs.type.bucket": 0
+        },
+        {
+          "║💻║medienschrott.name": "║💻║medienschrott",
+          "║💻║medienschrott.position": 11,
+          "║💻║medienschrott.type": 0,
+          "║💻║medienschrott.type.bucket": 0
+        },
+        {
+          "║🔌║bot-chat.name": "║🔌║bot-chat",
+          "║🔌║bot-chat.position": 12,
+          "║🔌║bot-chat.type": 0,
+          "║🔌║bot-chat.type.bucket": 0
+        }
+      ]
+    },
+    {
+      "Lying ● Talks.name": "Lying ● Talks",
+      "Lying ● Talks.id": "593836299807621142",
+      "Lying ● Talks.position": 3,
+      "Lying ● Talks.type": 4,
+      "channels": [
+        {
+          "═══ 2er Talk ════.name": "═══ 2er Talk ════",
+          "═══ 2er Talk ════.position": 0,
+          "═══ 2er Talk ════.type": 2,
+          "═══ 2er Talk ════.type.bucket": 1
+        },
+        {
+          "╔ Talk I.name": "╔ Talk I",
+          "╔ Talk I.position": 1,
+          "╔ Talk I.type": 2,
+          "╔ Talk I.type.bucket": 1
+        },
+        {
+          "╚  Talk II.name": "╚  Talk II",
+          "╚  Talk II.position": 2,
+          "╚  Talk II.type": 2,
+          "╚  Talk II.type.bucket": 1
+        },
+        {
+          "═══ 3er Talk ════.name": "═══ 3er Talk ════",
+          "═══ 3er Talk ════.position": 3,
+          "═══ 3er Talk ════.type": 2,
+          "═══ 3er Talk ════.type.bucket": 1
+        },
+        {
+          "╔ Talk lll.name": "╔ Talk lll",
+          "╔ Talk lll.position": 4,
+          "╔ Talk lll.type": 2,
+          "╔ Talk lll.type.bucket": 1
+        },
+        {
+          "╚ Talk lV.name": "╚ Talk lV",
+          "╚ Talk lV.position": 5,
+          "╚ Talk lV.type": 2,
+          "╚ Talk lV.type.bucket": 1
+        },
+        {
+          "═══4er Talk════.name": "═══4er Talk════",
+          "═══4er Talk════.position": 6,
+          "═══4er Talk════.type": 2,
+          "═══4er Talk════.type.bucket": 1
+        },
+        {
+          "╔ Talk V.name": "╔ Talk V",
+          "╔ Talk V.position": 7,
+          "╔ Talk V.type": 2,
+          "╔ Talk V.type.bucket": 1
+        },
+        {
+          "╚ Talk Vl.name": "╚ Talk Vl",
+          "╚ Talk Vl.position": 8,
+          "╚ Talk Vl.type": 2,
+          "╚ Talk Vl.type.bucket": 1
+        },
+        {
+          "══Unendliche Talks═══.name": "══Unendliche Talks═══",
+          "══Unendliche Talks═══.position": 9,
+          "══Unendliche Talks═══.type": 2,
+          "══Unendliche Talks═══.type.bucket": 1
+        },
+        {
+          "╔ Talk IX.name": "╔ Talk IX",
+          "╔ Talk IX.position": 10,
+          "╔ Talk IX.type": 2,
+          "╔ Talk IX.type.bucket": 1
+        },
+        {
+          "╚ Talk X.name": "╚ Talk X",
+          "╚ Talk X.position": 11,
+          "╚ Talk X.type": 2,
+          "╚ Talk X.type.bucket": 1
+        },
+        {
+          "═══════════════.name": "═══════════════",
+          "═══════════════.position": 12,
+          "═══════════════.type": 2,
+          "═══════════════.type.bucket": 1
+        }
+      ]
+    },
+    {
+      "Lying ● Influencer.name": "Lying ● Influencer",
+      "Lying ● Influencer.id": "596034737152196632",
+      "Lying ● Influencer.position": 4,
+      "Lying ● Influencer.type": 4,
+      "channels": [
+        {
+          "youtuber-chat.name": "youtuber-chat",
+          "youtuber-chat.position": 13,
+          "youtuber-chat.type": 0,
+          "youtuber-chat.type.bucket": 0
+        },
+        {
+          "╔ Influencer Talk I.name": "╔ Influencer Talk I",
+          "╔ Influencer Talk I.position": 13,
+          "╔ Influencer Talk I.type": 2,
+          "╔ Influencer Talk I.type.bucket": 1
+        },
+        {
+          "╠ YouTuber Talk II.name": "╠ YouTuber Talk II",
+          "╠ YouTuber Talk II.position": 14,
+          "╠ YouTuber Talk II.type": 2,
+          "╠ YouTuber Talk II.type.bucket": 1
+        },
+        {
+          "╠ Influencer Ruhe!.name": "╠ Influencer Ruhe!",
+          "╠ Influencer Ruhe!.position": 15,
+          "╠ Influencer Ruhe!.type": 2,
+          "╠ Influencer Ruhe!.type.bucket": 1
+        },
+        {
+          "╚  YouTuber Rec. Ruhe!.name": "╚  YouTuber Rec. Ruhe!",
+          "╚  YouTuber Rec. Ruhe!.position": 16,
+          "╚  YouTuber Rec. Ruhe!.type": 2,
+          "╚  YouTuber Rec. Ruhe!.type.bucket": 1
+        }
+      ]
+    },
+    {
+      "Lying ● Team.name": "Lying ● Team",
+      "Lying ● Team.id": "593467045140758578",
+      "Lying ● Team.position": 5,
+      "Lying ● Team.type": 4,
+      "channels": [
+        {
+          "║👮║team-chat.name": "║👮║team-chat",
+          "║👮║team-chat.position": 14,
+          "║👮║team-chat.type": 0,
+          "║👮║team-chat.type.bucket": 0
+        },
+        {
+          "║🚧║admin-log.name": "║🚧║admin-log",
+          "║🚧║admin-log.position": 15,
+          "║🚧║admin-log.type": 0,
+          "║🚧║admin-log.type.bucket": 0
+        },
+        {
+          "║🚧║adminchat.name": "║🚧║adminchat",
+          "║🚧║adminchat.position": 16,
+          "║🚧║adminchat.type": 0,
+          "║🚧║adminchat.type.bucket": 0
+        },
+        {
+          "║🚧║bot-test.name": "║🚧║bot-test",
+          "║🚧║bot-test.position": 17,
+          "║🚧║bot-test.type": 0,
+          "║🚧║bot-test.type.bucket": 0
+        },
+        {
+          "╔ Team Talk I.name": "╔ Team Talk I",
+          "╔ Team Talk I.position": 17,
+          "╔ Team Talk I.type": 2,
+          "╔ Team Talk I.type.bucket": 1
+        },
+        {
+          "╚  Team Talk II.name": "╚  Team Talk II",
+          "╚  Team Talk II.position": 18,
+          "╚  Team Talk II.type": 2,
+          "╚  Team Talk II.type.bucket": 1
+        }
+      ]
+    }
+  ],
+  "userdata": [
+    {
+      "485768630517104652.name": "T_YouTube",
+      "485768630517104652.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596363158407479316:596363159242276874:596363160290590738:596363161330909195:596363161834356737:596363162559971328:596363163323334666:596364088771215402:596364093716168714:"
+    },
+    {
+      "587263022700036117.name": "ScaredDev",
+      "587263022700036117.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596363157367423020:596364088771215402:596364093716168714:"
+    },
+    {
+      "349209393612718090.name": "Torben",
+      "349209393612718090.fake": false,
+      "roles": "604955864922849280:593464659797999622:606062234816479252:596034057859629058:"
+    },
+    {
+      "718971474446123058.name": "vxnxsxa.p",
+      "718971474446123058.fake": false,
+      "roles": "761299209948364863:593464661534441480:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "440828080366551040.name": "KeineDoseYT",
+      "440828080366551040.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596363157367423020:596363158407479316:596363159242276874:596363160290590738:596363161330909195:596363161834356737:596363162559971328:596363163323334666:596364088771215402:596364093716168714:596364094349639692:"
+    },
+    {
+      "159985870458322944.name": "MEE6",
+      "159985870458322944.fake": false,
+      "roles": "593467265945436162:593465795183640577:"
+    },
+    {
+      "723881600919535618.name": "MaxDerKürbis",
+      "723881600919535618.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596363163323334666:596364088771215402:596364093716168714:"
+    },
+    {
+      "503967480625233932.name": "FabioGaming",
+      "503967480625233932.fake": false,
+      "roles": "604955864922849280:593464661534441480:593465644872237056:596034057859629058:596364002121220106:596363157367423020:596364088771215402:"
+    },
+    {
+      "430007256252284938.name": "kny",
+      "430007256252284938.fake": false,
+      "roles": "596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "465035297873461249.name": "WASKE_YT",
+      "465035297873461249.fake": false,
+      "roles": "596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "563405410682535987.name": "LegitHacksツ",
+      "563405410682535987.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "373919941948080129.name": "emqaa🖤",
+      "373919941948080129.fake": false,
+      "roles": "670958544001957889:593464661534441480:593465644872237056:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "204255221017214977.name": "YAGPDB.xyz",
+      "204255221017214977.fake": false,
+      "roles": "596361032172175361:593465795183640577:"
+    },
+    {
+      "339740988975218691.name": "°ॐ420ॐDiesmal wirklichॐ°",
+      "339740988975218691.fake": false,
+      "roles": "596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "568761190919045129.name": "Mercourio",
+      "568761190919045129.fake": false,
+      "roles": "596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "721464557423296625.name": "Docs Spritze💉",
+      "721464557423296625.fake": false,
+      "roles": "593464656002154507:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "440606408057028619.name": "Divine_M◌F◌GGA",
+      "440606408057028619.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596363162559971328:596364088771215402:596364093716168714:"
+    },
+    {
+      "413001123377709066.name": "GodHacker",
+      "413001123377709066.fake": false,
+      "roles": "756918470112837732:593464661534441480:606062234816479252:596364002121220106:596363158407479316:596364088771215402:596364119037181963:"
+    },
+    {
+      "711212053955870831.name": "Joshko_ring",
+      "711212053955870831.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596364088771215402:596364093716168714:"
+    },
+    {
+      "300623722556162060.name": "PlexDE | Marc",
+      "300623722556162060.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596363157367423020:596364088771215402:596364093716168714:"
+    },
+    {
+      "529206919945256960.name": "⛥𝓐𝓴𝓮𝓷𝓸⛥",
+      "529206919945256960.fake": false,
+      "roles": "593465644872237056:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "513689844963213313.name": "TENC neqzy",
+      "513689844963213313.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "568758844050898946.name": "Lageon",
+      "568758844050898946.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596363158407479316:596363159242276874:596363161330909195:596363161834356737:596363162559971328:596363163323334666:596364088771215402:596364119037181963:"
+    },
+    {
+      "427152933507825665.name": "Nicilie 77",
+      "427152933507825665.nick": "Admin Nicillie",
+      "427152933507825665.fake": false,
+      "roles": "593464656002154507:596034057859629058:596364002121220106:596364088771215402:596364093716168714:"
+    },
+    {
+      "404374052191600640.name": "Maxowo",
+      "404374052191600640.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "582170922920968213.name": "FileJavaDev",
+      "582170922920968213.fake": false,
+      "roles": "606062234816479252:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "458325809027874846.name": "Jones",
+      "458325809027874846.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596364088771215402:596364093716168714:"
+    },
+    {
+      "434376898353823764.name": "Broken | Louis",
+      "434376898353823764.fake": false,
+      "roles": "593465644872237056:593836323731800085:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "643201597719052298.name": "Cute Durchi ツ",
+      "643201597719052298.fake": false,
+      "roles": "596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "429216384145293312.name": "xXJustFinnXx",
+      "429216384145293312.fake": false,
+      "roles": "596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "471730993577852928.name": "Yaniler",
+      "471730993577852928.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "519942448844111877.name": "Motsee| Moritz",
+      "519942448844111877.nick": "Moritz | Motsee",
+      "519942448844111877.fake": false,
+      "roles": "756918470112837732:593464658086854668:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "518713484654018579.name": "Beryllmaennchen",
+      "518713484654018579.nick": "Moderator | Beryllmaennchen",
+      "518713484654018579.fake": false,
+      "roles": "593464657537400842:593465644872237056:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "371664950873161730.name": "Kuriba",
+      "371664950873161730.fake": false,
+      "roles": "593464661534441480:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "731829705891905576.name": "hiຖค๓iᵈᶻᶰ",
+      "731829705891905576.fake": false,
+      "roles": "593464660901232651:596034057859629058:596364002121220106:596364088771215402:"
+    },
+    {
+      "242730576195354624.name": "Auttaja",
+      "242730576195354624.fake": false,
+      "roles": "593467484116615189:593465795183640577:"
+    },
+    {
+      "338409104915824643.name": "LyingYT | Luca",
+      "338409104915824643.fake": false,
+      "roles": "593464655758753792:604955864922849280:593464656002154507:593464657537400842:756918470112837732:598951478006382604:593464658086854668:593466143977504790:593464661534441480:593465644872237056:606062234816479252:593836323731800085:596034057859629058:593466754878144559:596991849135210496:596364002121220106:596363157367423020:596364088771215402:596364093716168714:"
+    },
+    {
+      "539793244004024321.name": "83n",
+      "539793244004024321.nick": "BenRyan1411",
+      "539793244004024321.fake": false,
+      "roles": "596034057859629058:596364002121220106:596363157367423020:596364088771215402:596364093716168714:"
+    },
+    {
+      "765618254994472971.name": "Nosine",
+      "765618254994472971.fake": false,
+      "roles": "765618918458654742:593465795183640577:"
+    }
+  ]
+}
